@@ -1,0 +1,12 @@
+name: shiny_dashboard_project
+title: shiny_dashboard_project
+username:
+account: thisisjohnnylau
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2447928
+bundleId: 3263100
+url: https://thisisjohnnylau.shinyapps.io/shiny_dashboard_project/
+when: 1591995623.08297
+asMultiple: FALSE
+asStatic: FALSE
