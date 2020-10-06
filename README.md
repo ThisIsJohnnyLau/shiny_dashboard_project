@@ -1,7 +1,7 @@
-# Dashboard Project
-Web traffic analysis for client
+# [Dashboard Project](https://thisisjohnnylau.shinyapps.io/shiny_dashboard_project/)
 
-https://thisisjohnnylau.shinyapps.io/shiny_dashboard_project/
+Web traffic analysis for client [client brief](client_brief/DE3_Group_2_project_brief.html)
+
 
 ## Project aims and learning objectives
 
@@ -13,7 +13,7 @@ https://thisisjohnnylau.shinyapps.io/shiny_dashboard_project/
 * APIs/Keys   
 * Synthetic data  
 
-### Practical
+### [Practical](planning/team_goals.html)
 
 * Experience working in a data team  
 * Understanding some of the challenges this creates and finding ways to overcome them
@@ -21,7 +21,7 @@ https://thisisjohnnylau.shinyapps.io/shiny_dashboard_project/
 * Capturing business requirements and translating them into a plan with deliverable goals  
 * Best practice data security  
 
-## Planning
+## [Planning](planning/dashboard_project_brainstorm.html)
 
 * Confirming MVP, extension tasks and deliverables
 * Sharing the workload and effective decision making
@@ -33,14 +33,13 @@ https://thisisjohnnylau.shinyapps.io/shiny_dashboard_project/
 
 ## Dashboard specifications
 
+* Meets business requirements and **answers the business question**  
 * Built in R Shiny
 * Best practice design
-* Meets business requirements and **answers the business question**  
 
+## [Presentation](https://docs.google.com/presentation/d/1NcQUp7F1CfNCNU5n42NmqNTDWnIjuApp5n2OLUdUmi0/edit?usp=sharing)
 
-## Presentation
-
-15 minutes as a group, plus time for questions to unveil your dashboard:
+15 minute group presentation with time for questions and dashboard unveiling:
 
 * Functionality and components  
 * Approach taken and how it was planned within the group  
@@ -50,18 +49,6 @@ https://thisisjohnnylau.shinyapps.io/shiny_dashboard_project/
 * Lessons for the future  
 
 ***
-
-## Additional points
-
-* Sort out your data access early  
-* Identify and investigate any unknowns early (gives plenty time to investigate or for you to speak to business to owners to clarify)  
-* Put a time limit on aspects of the project to ensure that you have something to demonstrate at the end of the week  
-* Consider investigating features in a separate test project or branch to check you can implement your plan, before integrating it into your main project.  
-* Split your shiny app into ui.R and server.R files so that they can be worked on separately.
-* As priority focus on the data provided as part of the brief, but if have time may wish to explore adding open data which may be relevant to your brief.   
-* Think about how structure code for API calls - both in terms of number of calls but also for when replace it with synthesised data. 
-
-
 
 # Timeline
 
