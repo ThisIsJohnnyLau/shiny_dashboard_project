@@ -1,7 +1,7 @@
 # [Dashboard Project](https://thisisjohnnylau.shinyapps.io/shiny_dashboard_project/)
 
 ## Web traffic analysis for client
-###[client brief](client_brief/DE3_Group_2_project_brief.html)
+### [client brief](client_brief/DE3_Group_2_project_brief.html)
 
 
 ## Project aims and learning objectives
